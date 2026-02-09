@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi, I'm Vincent
+I'm a Computer Science student with a minor in Cybersecurity at the University of Wisconsin–Whitewater, graduating May 2026.
 
 <!--
 **Vhoffman234/VHoffman234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
